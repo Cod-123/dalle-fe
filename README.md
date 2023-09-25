@@ -11,4 +11,4 @@ downloading images.
 • Additionally, the project incorporates the Cloudinary platform for image hosting. The application is deployed
 using the Netlify and Render platforms..
 
-deployed link: https://astounding-cactus-f3f77a.netlify.app
+deployed link: https://64aa5bf1803f817c23e0bd7f--dalleapi.netlify.app/
